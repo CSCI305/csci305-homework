@@ -15,9 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u></h4>
 
 </center>
-<br />
-<br />
-<br />
+
 
 #### Types
 1. Give the ML type corresponding to each of the following sets:
@@ -54,9 +52,10 @@
      <br/>
 
 3. Investigate the following type: *Associative Arrays in Perl*. Describe your findings fully, and don't forget to discuss representation issues and supported operations.
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 #### Polymorphism
-1. Consider an unknown language with a left-associative `+` operator that is overloaded to have the following types: `int*real->real`, `int*int->int`, `real*int->real`, and `real*real->real`. Suppose the variable `i` has type `int` and the varialbe `r` has type `real`. For each `+` operator in each of the following expressions, say whith type of `+` is used:
+1. Consider an unknown language with a left-associative `+` operator that is overloaded to have the following types: `int*real->real`, `int*int->int`, `real*int->real`, and `real*real->real`. Suppose the variable `i` has type `int` and the variable `r` has type `real`. For each `+` operator in each of the following expressions, say which type of `+` is used:
 
     a. `i + (r + i)`
 
