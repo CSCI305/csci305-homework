@@ -117,7 +117,7 @@ For each of the following parameter-passing methods, say what the final values i
   <br/>
   <br/>
   <br/>
-  * By value-split
+  * By value-result
   <br/>
   <br/>
   <br/>
